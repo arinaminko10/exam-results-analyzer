@@ -44,7 +44,7 @@
 
 ```
 exam-results-analyzer/
-├── Project1.cpp    # Main application entry point
+├── Project1.cpp                  # Main application entry point
 ├── main.h                        # Form header with component declarations
 ├── main.cpp                      # Main logic and implementation
 └── README.md
