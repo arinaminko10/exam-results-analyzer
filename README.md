@@ -44,9 +44,9 @@
 
 ```
 exam-results-analyzer/
-├── мой очень главный проект.cpp    # Main application entry point
-├── корабль.h                        # Form header with component declarations
-├── корабль.cpp                      # Main logic and implementation
+├── Project1.cpp    # Main application entry point
+├── main.h                        # Form header with component declarations
+├── main.cpp                      # Main logic and implementation
 └── README.md
 ```
 
